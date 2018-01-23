@@ -6,7 +6,7 @@
     "test": "test"
   },
   "scripts": {
-    "api-tests-description": "newman run tests/Jsonplaceholder.com.postman_collection.json"
+    "api-tests-description": "newman run test/Jsonplaceholder.com.postman_collection.json"
   },
   "author": "amit mohan",
   "dependencies": {
